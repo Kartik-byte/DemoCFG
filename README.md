@@ -29,7 +29,7 @@ git commit -m "Relevant message"
 **5.** Push the committed changes in your feature branch.
 
 ```
-git push -u origin <your_branch_name>
+
 ```
 
 **6.** Create a PR.
@@ -37,3 +37,5 @@ git push -u origin <your_branch_name>
 ```
 click on compare and pull requests then compare with master branch and create a pull request.
 ```
+
+#practising git push ! ||parimala09
