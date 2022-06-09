@@ -1,10 +1,8 @@
-# spreed
-
-A new Flutter project.
+# CFG
 
 ## Getting Started
-To add ur assigned part follow these steps
 
+To add ur assigned part follow these steps
 
 **1.** Create a new branch.
 
@@ -19,7 +17,7 @@ git checkout -b <your_branch_name>
 **3.** Track your changes:heavy_check_mark: .
 
 ```
-git add . 
+git add .
 ```
 
 **4.** Commit your changes .
@@ -33,7 +31,6 @@ git commit -m "Relevant message"
 ```
 git push -u origin <your_branch_name>
 ```
-
 
 **6.** Create a PR.
 
