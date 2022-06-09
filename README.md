@@ -37,3 +37,5 @@ git push -u origin <your_branch_name>
 ```
 click on compare and pull requests then compare with master branch and create a pull request.
 ```
+
+#practising gitpush ||parimala
