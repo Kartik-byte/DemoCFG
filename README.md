@@ -3,6 +3,9 @@
 Practice repo
 Hello..!!!
 
+# DemoCFG
+Practice repo
+I am Kartik and a contributor
 # CFG
 
 ## Getting Started
@@ -44,3 +47,6 @@ click on compare and pull requests then compare with master branch and create a 
 ```
 
 #practising git push ! ||parimala09 
+# test push Kartik 1234
+
+#testing archit
